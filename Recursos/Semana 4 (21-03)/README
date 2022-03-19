@@ -1,1 +1,18 @@
+Ejemplo 1 - Patrón Helix : Pequeño proyecto en Python que dibuja un patrón infinito.
 
+Código RED PCP: Primeras lineas de código para pequeño proyecto de red social (lineas 5 a 15)
+
+print("Bienvenido a ... ")
+print("""
+
+                 _     ___    ___    ___   
+                ( )   (  _`\ (  _`\ (  _`\ 
+ _ __   __     _| |   | |_) )| ( (_)| |_) )
+( '__)/'__`\ /'_` |   | ,__/'| |  _ | ,__/'
+| |  (  ___/( (_| |   | |    | (_( )| |    
+(_)  `\____)`\__,_)   (_)    (____/'(_)    
+                       
+""")
+
+Herramienta texto ASCII: Enlace generador de texto para proyecto de red social
+http://www.network-science.de/ascii/

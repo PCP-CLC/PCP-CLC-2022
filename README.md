@@ -8,3 +8,5 @@ Material y enlaces para Pensamiento Computacional y Programación Colegio La Cru
 
 A través del siguiente enlace es posible revisar los puntajes obtenidos en el curso y el número de pc asigando a cada estudiante.
 https://docs.google.com/spreadsheets/d/1mLhbUwOhuig5yHQfvUpPfRpkH8b_PGA-3MdusTp_HRY/edit?usp=sharing
+
+[Link to Google](https://www.google.com)

@@ -1,6 +1,6 @@
 Ejemplo 1 - Patrón Helix : Pequeño proyecto en Python que dibuja un patrón infinito.
 
-Código RED PCP: Primeras lineas de código para pequeño proyecto de red social (lineas 5 a 15)
+Código RED PCP: Primeras lineas de código para pequeño proyecto de red social 
 
 print("Bienvenido a ... ")
 print("""

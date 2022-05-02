@@ -6,7 +6,7 @@ a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p = (0,)*16
 puntaje = 0
 
 
-def inicia_juego():
+def iniciar_juego():
     global a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p
     a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p = tablero.inicia_juego()
 
@@ -23,6 +23,7 @@ def esperar_presionar_tecla():
 def tarea(tablero):
     global puntaje, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p
     #Aqui empieza tu tarea
+
 
 
     #Aqui termina tu tarea

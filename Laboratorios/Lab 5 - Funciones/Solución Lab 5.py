@@ -22,7 +22,6 @@ def adornos (cosas):
 
 def dibujar_arbol(ancho):
     while ancho < 9 or ancho % 2 == 0:
-        print('No puedo dibujar este arbol')
         print('No puedo dibujar este arbol, aquí tienes uno de ancho 9')
         dibujar_arbol(9)
         ancho = int(input('Denme un numero impar mayor o igual a 9:\n'))

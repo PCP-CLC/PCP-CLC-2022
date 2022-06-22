@@ -12,3 +12,4 @@ A través del siguiente enlace es posible revisar los puntajes obtenidos en el c
 
 INSCRIPCIONES UI/UX
 https://docs.google.com/spreadsheets/d/1IRuBGtA3EML4ioO8GjzYguOIZizK4glNRvdjiTfyezA/edit?usp=sharing
+[Inscripciones]

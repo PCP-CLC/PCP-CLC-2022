@@ -10,4 +10,5 @@ Material y enlaces para Pensamiento Computacional y Programación Colegio La Cru
 A través del siguiente enlace es posible revisar los puntajes obtenidos en el curso y el número de pc asigando a cada estudiante.<br/>
 [Notas PCP 2022](https://1drv.ms/x/s!AhyDY8QttvFHhDLfLr7jVSSO8Ubo?e=LLxdLf)
 
-
+.<br/>
+[Puntajes primer semestre](https://docs.google.com/spreadsheets/d/1mLhbUwOhuig5yHQfvUpPfRpkH8b_PGA-3MdusTp_HRY/edit?usp=sharing)

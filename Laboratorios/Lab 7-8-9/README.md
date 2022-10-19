@@ -6,3 +6,6 @@ A través del siguiente enlace es posible editar el baner para la app.<br/>
 
 El siguiente enlace contiene los primeros pasos para el desarrollo de la app.<br/>
 [Tutorial](https://drive.google.com/file/d/1_5UtuuxVOgbDe2BXuu-aFmPpRb7MjVWM/view?usp=sharing)
+
+El siguiente enlace contiene el proyecto completo sin capas de personalización.<br/>
+[Tutorial](https://drive.google.com/file/d/1ZHEJKFlnM7seABOQaTvx_4h4ermMiBUO/view?usp=sharing)

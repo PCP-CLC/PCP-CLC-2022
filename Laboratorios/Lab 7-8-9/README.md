@@ -13,6 +13,10 @@ A través del siguiente enlace es posible editar el baner para la app en resoluc
 A través del siguiente enlace es posible editar el baner para la app en resolución 512x512.<br/>
 [512x512](https://www.canva.com/design/DAFP48BoGqM/pNLMU9mYRIZHqu5_tFrwEQ/edit?utm_content=DAFP48BoGqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+A través del siguiente enlace es posible editar los pantallazos (versión celular y tablet 1920x1080).<br/>
+[1920x1080](https://www.canva.com/design/DAFQPj3xQi0/bTP-S3afKUWg-eE5fnGDog/edit?utm_content=DAFQPj3xQi0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 El siguiente enlace contiene los primeros pasos para el desarrollo de la app.<br/>
 [Tutorial](https://drive.google.com/file/d/1_5UtuuxVOgbDe2BXuu-aFmPpRb7MjVWM/view?usp=sharing)
 

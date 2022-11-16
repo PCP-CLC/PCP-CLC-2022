@@ -16,9 +16,13 @@ A través del siguiente enlace es posible editar el baner para la app en resoluc
 A través del siguiente enlace es posible editar los pantallazos (versión celular y tablet 1920x1080).<br/>
 [1920x1080](https://www.canva.com/design/DAFQPj3xQi0/bTP-S3afKUWg-eE5fnGDog/edit?utm_content=DAFQPj3xQi0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+A través del siguiente enlace es posible editar la gráfica de funciones.<br/>
+[Gráfica de funciones](https://www.canva.com/design/DAFP49txI-s/7F8W_ZYc0dLr0lwaP36g3w/edit?utm_content=DAFP49txI-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 El siguiente enlace contiene los primeros pasos para el desarrollo de la app.<br/>
 [Tutorial](https://drive.google.com/file/d/1_5UtuuxVOgbDe2BXuu-aFmPpRb7MjVWM/view?usp=sharing)
 
 El siguiente enlace contiene el proyecto completo sin capas de personalización.<br/>
 [Proyecto](https://drive.google.com/file/d/1ZHEJKFlnM7seABOQaTvx_4h4ermMiBUO/view?usp=sharing)
+
+

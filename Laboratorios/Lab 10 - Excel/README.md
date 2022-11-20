@@ -1,4 +1,4 @@
-Utilizando la base de datos: "base de datos ventas", responda a las siguientes preguntas:
+Utilizando la base de datos: "Base de datos ventas", responda a las siguientes preguntas:
 
 1) Considerando que el premio al empleado del mes se le otorga a quién obtuvo las mayores ventas durante cierto mes a lo largo de todas las tiendas, ¿quién obtuvo el premio al empleado del mes durante Abril 2021 y Abril 2022?
 
